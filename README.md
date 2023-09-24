@@ -1,1 +1,1 @@
-# Python-Project-About-Me
+# Python-Project-Solar System Quiz
